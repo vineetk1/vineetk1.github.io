@@ -1,2 +1,1 @@
-# vineetk1.github.io
-Artificial Intelligence Presentation Slides
+Slides of presentations I have done at various meetups
